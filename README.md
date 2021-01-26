@@ -1,2 +1,2 @@
 ### HOLA, MI NOMBRE ES ASUKA (RESPONDO A AZÚCAR) y SOY UNA PERRITA PERDIDA EN MONTEVIDEO, URUGUAY, EN LA ZONA CORDÓN NORTE
-[](https://i.imgur.com/xuIZM9B.jpg)
+<img src="https://i.imgur.com/xuIZM9B.jpg"/>
