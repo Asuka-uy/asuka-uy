@@ -1,4 +1,4 @@
-### Hi there 👋
+### HOLA, MI NOMBRE ES ASUKA (RESPONDO A AZÚCAR) y SOY UNA PERRITA PERDIDA EN MONTEVIDEO, URUGUAY, EN LA ZONA CORDÓN NORTE
 
 <!--
 **Asuka-uy/asuka-uy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
